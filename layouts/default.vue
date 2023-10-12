@@ -7,27 +7,19 @@
             href="/"
             class="d-flex align-items-center mb-xl-0 me-xl-auto text-decoration-none"
           >
-            <!-- <img src="~/assets/logo.svg" class="logo" /> -->
-            <span class="brandnamewhite">Green <br> Enterprise</span>
+            <img src="~/assets/img/potted-plant.svg" class="logo" alt="gwandllyne the plant" /> 
+            <span class="brandnamewhite">Green Enterprise</span>
           </a>
 
           <div class="d-xl-block d-none">
             <ul class="nav nav-pills py-5">
               <li class="nav-item">
-                <NuxtLink to="/" class="nav-link">HOME</NuxtLink>
+                <NuxtLink to="/" class="nav-link">Home</NuxtLink>
               </li>
               <li class="nav-item">
-                <NuxtLink to="about" class="nav-link">ABOUT US</NuxtLink>
+                <NuxtLink to="about" class="nav-link">Tutorials</NuxtLink>
               </li>
-              <!-- <li class="nav-item">
-                <NuxtLink to="ourrobot" class="nav-link">OUR ROBOT</NuxtLink>
-              </li> -->
-              <!-- <li class="nav-item">
-                <a href="#" class="nav-link">OUR PORTFOLIO</a>
-              </li> -->
-              <li class="nav-item">
-                <NuxtLink to="contact" class="nav-link">CONTACT US</NuxtLink>
-              </li>
+              
             </ul>
           </div>
         </nav>
@@ -135,16 +127,15 @@
 
 .nav-item:hover {
   background-color: #eff0f2 !important;
-  font-family: 'League Gothic', sans-serif;
 }
 
 .nav-link:hover {
-  color: #cba33a !important;
+  font-weight:bold;
+  color: #000000;
 }
 
 .nav-link {
   color: #eff0f2;
-  font-family: 'League Gothic', sans-serif;
 }
 
 .brandnamewhite:hover {
@@ -164,20 +155,18 @@
 }
 .brandnameblue {
   color: #001a46;
-  font-family: 'League Gothic', sans-serif;
   font-size: 4rem;
   letter-spacing: 0.1rem;
 }
 .brandnamewhite {
   color: #fff;
-  font-family: 'League Gothic', sans-serif;
-  font-size: 4rem;
-  line-height:4rem;
-  overflow-y:hidden;
+  font-size: 3.7rem;
+  line-height:3.7rem;
+  overflow:hidden;
+  font-weight:bold;
 }
 .brandnamegold {
   color: #cba33a;
-  font-family: 'League Gothic', sans-serif;
   font-size: 4rem;
   letter-spacing: 0.1rem;
 }
@@ -207,7 +196,7 @@ header {
 }
 
 footer {
-  background-color: #001a46;
+  background-color: #376D3D;
 }
 
 .content {

@@ -27,7 +27,8 @@ export default {
   components: true,
 
   // Modules for dev and build (recommended): https://go.nuxtjs.dev/config-modules
-  buildModules: [],
+  buildModules: ['@nuxtjs/google-fonts'],
+
 
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [
@@ -44,5 +45,13 @@ export default {
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {},
 
-  ssr: false
+  ssr: false,
+
+  googleFonts: {
+    families: {
+      "League Gothic": true,
+      "Manrope": true,
+      
+    }
+  },
 }
