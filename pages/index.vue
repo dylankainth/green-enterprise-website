@@ -22,26 +22,23 @@
         <p class="col-lg-10 fs-2 text-warning">Reduce, Reuse, Recycle.</p>
       </div>
       <div class="col-md-10 mx-auto col-lg-5">
-        <form class="p-4 p-md-5 border rounded-3 bg-body-tertiary">
-          <div class="form-floating mb-3">
-            <input type="email" class="form-control" id="floatingInput" placeholder="name@example.com">
-            <label for="floatingInput">Email address</label>
-          </div>
-          <div class="form-floating mb-3">
-            <input type="password" class="form-control" id="floatingPassword" placeholder="Password">
-            <label for="floatingPassword">Password</label>
-          </div>
-          <div class="checkbox mb-3">
-            <label>
-              <input type="checkbox" value="remember-me"> Remember me
-            </label>
-          </div>
-          <button class="w-100 btn btn-lg btn-primary" type="submit">Sign up</button>
-          <hr class="my-4">
-          <small class="text-body-secondary">By clicking Sign up, you agree to the terms of use.</small>
-        </form>
+        <img src="~/assets/img/recycle.svg" class="w-100"/>
       </div>
     </div>
+  </div>
+
+  <div class="bg-white text-specialgreen">
+  <div class="container col-xl-10 col-xxl-8 px-4 py-1">
+    <div class="row align-items-center g-lg-5 py-1">
+      <div class="col-md-10 mx-auto col-lg-7">
+        <img src="~/assets/img/school.svg" style="width:60%"/>
+      </div>
+      <div class="col-lg-5 text-center text-lg-start">
+        <h1 class="display-5 fw-bold overflow-hidden text-specialgreen">Who can enter?</h1>
+        <p class="col-lg-10 fs-2 text-specialgreen">Anyone from year 5-13 that is a student in a Harrow family or partner school.</p>
+      </div>
+    </div>
+  </div>
   </div>
 
 </div>
@@ -70,5 +67,9 @@
   left: 50%;
   transform: translate(-50%, -50%);
   color:white;
+}
+
+.text-specialgreen {
+  color:  #4B9354
 }
 </style>
