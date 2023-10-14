@@ -41,6 +41,46 @@
   </div>
   </div>
 
+  <div class="container px-4 py-5" id="featured-4">
+    <h1 class="pb-2 display-5 fw-bold overflow-hidden text-white">Judgement Criteria</h1>
+    <div class="row g-4 py-5 row-cols-2 row-cols-lg-2">
+      <div class="feature col">
+        <div class="feature-icon d-inline-flex align-items-center justify-content-center fs-5 mb-3">
+          <img src="~/assets/img/viability.svg" style="width:75px"/>
+        </div>
+        <h3 class="fs-2 fw-bold overflow-hidden text-white">Viability</h3>
+        <p class="text-white">The product must be within current scientific bounds - back this up with research. <br> Will your product or service thrive in the market? <br> How will competitors affect the success of your product? <br> Most importantly - Will your product work?</p>
+  
+      </div>
+      <div class="feature col">
+        <div class="feature-icon d-inline-flex align-items-center justify-content-center fs-5 mb-3">
+          <img src="~/assets/img/lightbulb.svg" style="width:75px"/>
+        </div>
+        <h3 class="fs-2 fw-bold overflow-hidden text-white">Creativity</h3>
+        <p class="text-white">Adapt! Use shortcomings in the real world to influence your decisions.<br>How unique is your idea? <br> Will your idea bring someone to the edge of their seat?</p>
+  
+      </div>
+       <div class="feature col">
+        <div class="feature-icon d-inline-flex align-items-center justify-content-center fs-5 mb-3">
+          <img src="~/assets/img/leaf.svg" style="width:75px"/>
+        </div>
+        <h3 class="fs-2 fw-bold overflow-hidden text-white">Sustainability</h3>
+        <p class="text-white">How big of an impact do you expect your product to make? <br> Be clear on what specific environmental issues you are targeting. <br> How exactly does your product aim to resolve these issues?</p>
+  
+      </div>
+      <div class="feature col">
+        <div class="feature-icon d-inline-flex align-items-center justify-content-center fs-5 mb-3">
+          <img src="~/assets/img/quality.svg" style="width:75px"/>
+        </div>
+        <h3 class="fs-2 fw-bold overflow-hidden text-white">Quality</h3>
+        <p class="text-white">Is your pitch easy to follow? <br> Ensure that you are engaging and convincing in the way you speak. <br> It's only a one-minute pitch! We expect the video + filming quality to be high.</p>
+  
+      </div>
+
+
+    </div>
+  </div>
+
 </div>
 </template>
 
