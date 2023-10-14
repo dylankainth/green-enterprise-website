@@ -58,29 +58,20 @@
             href="/"
             class="d-flex align-items-center mb-xl-0 me-xl-auto text-decoration-none"
           >
-            <span class="py-3 brandnameblue">TEAM&nbsp;</span
-            ><span class="py-3 brandnamegold">EUCLID</span>
+            <span class="brandnamegreen">Green Enterprise</span>
           </a>
           </h2>
           
         </div>
         <div class="offcanvas-body">
           <ul class="navbar-nav justify-content-end flex-grow-1 pe-3">
-            <li class="nav-item-offcanvas" data-bs-dismiss="offcanvas">
-                <NuxtLink to="/" class="nav-link" >HOME</NuxtLink>
+              <li  class="nav-item-offcanvas" data-bs-dismiss="offcanvas">
+                <NuxtLink to="/" class="nav-link">Home</NuxtLink>
               </li>
-              <li class="nav-item-offcanvas" data-bs-dismiss="offcanvas">
-                <NuxtLink to="about" class="nav-link" >ABOUT US</NuxtLink>
+              <li  class="nav-item-offcanvas" data-bs-dismiss="offcanvas">
+                <NuxtLink to="/participate" class="nav-link">Participate</NuxtLink>
               </li>
-              <!-- <li class="nav-item">
-                <NuxtLink to="ourrobot" class="nav-link">OUR ROBOT</NuxtLink>
-              </li> -->
-              <!-- <li class="nav-item">
-                <a href="#" class="nav-link">OUR PORTFOLIO</a>
-              </li> -->
-              <li class="nav-item-offcanvas" data-bs-dismiss="offcanvas">
-                <NuxtLink to="contact" class="nav-link">CONTACT US</NuxtLink>
-              </li>
+
           </ul>
         </div>
       </div>
@@ -130,7 +121,7 @@
 
 .nav-item-offcanvas .nuxt-link-exact-active {
   font-size:3rem;
-  color: #cba33a !important;
+  color: #4B9354 !important;
 }
 
 * {
@@ -184,6 +175,13 @@
 }
 .brandnamewhite {
   color: #fff;
+  font-size: 3.7rem;
+  line-height:3.7rem;
+  overflow:hidden;
+  font-weight:bold;
+}
+.brandnamegreen {
+  color: #4B9354;
   font-size: 3.7rem;
   line-height:3.7rem;
   overflow:hidden;

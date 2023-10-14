@@ -1,7 +1,7 @@
 <template>
 <div> 
 
-<div class="imagecontainer">
+<div class="imagecontainer d-none d-lg-block">
   <img src="~/assets/img/jon-flobrant-v1eV6HUdcIE-unsplash.jpg" class="backimage" style="width:100%;">
   <div class="centeredtext">
     <div class="py-5 my-5">
@@ -13,6 +13,14 @@
   </div>
 </div>
 
+<div class="d-lg-none pt-5 text-white">
+<center>
+  <h1 class="display-5 fw-bold overflow-hidden">Our Mission</h1>
+      <div class="col-lg-12 mx-auto">
+        <p class="lead mb-4 fs-2">Encourage younger generations to tackle real-world problems by considering the preservation of our planet at the forefront of their solutions.</p>
+      </div>
+      </center>
+</div>
 
 <div class="container col-xl-10 col-xxl-8 px-4 py-5">
     <div class="row align-items-center g-lg-5 py-5">
@@ -22,7 +30,7 @@
         <p class="col-lg-10 fs-2 text-warning">Reduce, Reuse, Recycle.</p>
       </div>
       <div class="col-md-10 mx-auto col-lg-5">
-        <img src="~/assets/img/recycle.svg" class="w-100"/>
+        <img src="~/assets/img/recycle.svg" class="w-100 d-none d-md-block"/>
       </div>
     </div>
   </div>
@@ -31,7 +39,7 @@
   <div class="container col-xl-10 col-xxl-8 px-4 py-1">
     <div class="row align-items-center g-lg-5 py-1">
       <div class="col-md-10 mx-auto col-lg-7">
-        <img src="~/assets/img/school.svg" style="width:60%"/>
+        <img src="~/assets/img/school.svg" style="width:60%" class="d-none d-md-block"/>
       </div>
       <div class="col-lg-5 text-center text-lg-start">
         <h1 class="display-5 fw-bold overflow-hidden text-specialgreen">Who can enter?</h1>
@@ -129,7 +137,7 @@
 
 
   <div class="imagecontainer">
-  <img src="~/assets/img/andrew-coelho-aL7SA1ASVdQ-unsplash.jpg" class="backimage" style="width:100%;">
+  <img src="~/assets/img/andrew-coelho-aL7SA1ASVdQ-unsplash.jpg" class="backimage" style="height:50vh; width:100%; object-fit: cover">
   <div class="centeredtext">
     <div class="py-5 my-5">
     <h1 class="display-5 fw-bold overflow-hidden">Get Started!</h1>

@@ -1,8 +1,8 @@
 <template>
 <div> 
 
-<div class="imagecontainer">
-  <img src="~/assets/img/jon-flobrant-v1eV6HUdcIE-unsplash.jpg" class="backimage" style="width:100%;">
+<div class="imagecontainer d-none d-lg-block">
+  <img src="~/assets/img/scott-webb-e6VmcXF8llA-unsplash.jpg" class="backimage" style="width:100%; object-fit: cover;">
   <div class="centeredtext">
     <div class="py-5 my-5">
     <h1 class="display-5 fw-bold overflow-hidden">Participate</h1>
@@ -12,6 +12,17 @@
   </div>
   </div>
 </div>
+
+<div class="d-lg-none pt-5 text-white">
+<center>
+  <h1 class="display-5 fw-bold overflow-hidden">Our Mission</h1>
+      <div class="col-lg-12 mx-auto">
+        <p class="lead mb-4 fs-2">Encourage younger generations to tackle real-world problems by considering the preservation of our planet at the forefront of their solutions.</p>
+      </div>
+      </center>
+</div>
+
+
 
 
 <div class="container my-5" v-for="(tutorial, index) in this.$store.state.tutorials">

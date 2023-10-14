@@ -1,5 +1,22 @@
 <template>
-    <section class="experience pt-100 pb-100" id="experience">
+<div>
+    <section class="text-white container d-md-none">
+    <h2>October 19th</h2>
+<h3>Enter the competition</h3>
+<p>Organise your team and sign up by October 19th. However, you will still be accepted if you join late.</p>
+
+<h2>Milestones</h2>
+<p>Periodically, you will receive content on entrepreneurship to participants with useful content to keep you on track.</p>
+
+<h2>March 18th</h2>
+<h3>Submission Deadline</h3>
+<p>Submit your video and pitch deck by March 18th. We will review and give feedback to four entries per school.</p>
+
+<h2>April 2023</h2>
+<h3>Awards Showcase</h3>
+<p>Once the review process is over, there will be a showcase where the winners of each category will be announced.</p>
+    </section>
+    <section class="experience pt-100 pb-100 d-none d-md-block" id="experience">
 		<div class="container">
 			<div class="row">
 				<div class="col-xl-8 mx-auto text-center">
@@ -38,7 +55,7 @@
                      <!-- Single Experience -->
                      <li>
                         <div class="timeline_content">
-                        <span>April</span>
+                        <span>April 2023</span>
                            <h4>Awards Showcase</h4>
                            <p>Once the review process is over, there will be a showcase where the winners of each category will be announced.</p>
                         </div>
@@ -48,6 +65,7 @@
             </div>
 		</div>
 	  </section>
+      </div>
 </template>
 
 <style scoped>
