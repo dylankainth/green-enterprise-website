@@ -8,5 +8,26 @@ export const state = () => ({
         title : "title",
         strapline: "person B gives a deep dive into abc",
         videourl: ""
-    }]
+    },
+    {
+        title : "title",
+        strapline: "person B gives a deep dive into abc",
+        videourl: ""
+    },
+    {
+        title : "title",
+        strapline: "person B gives a deep dive into abc",
+        videourl: ""
+    },
+    {
+        title : "title",
+        strapline: "person B gives a deep dive into abc",
+        videourl: ""
+    },
+    {
+        title : "title",
+        strapline: "person B gives a deep dive into abc",
+        videourl: ""
+    }
+]
 })
