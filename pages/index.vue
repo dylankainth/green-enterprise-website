@@ -77,9 +77,16 @@
   
       </div>
 
+      
+
+      
+
 
     </div>
+    
   </div>
+
+  <TimeLineComponent/>
 
 </div>
 </template>

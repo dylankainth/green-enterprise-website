@@ -46,6 +46,7 @@ export default {
   build: {},
 
   ssr: false,
+  components: true,
 
   googleFonts: {
     families: {
