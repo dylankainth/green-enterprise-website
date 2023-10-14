@@ -17,7 +17,7 @@
                 <NuxtLink to="/" class="nav-link">Home</NuxtLink>
               </li>
               <li class="nav-item">
-                <NuxtLink to="about" class="nav-link">Tutorials</NuxtLink>
+                <NuxtLink to="/participate" class="nav-link">Participate</NuxtLink>
               </li>
               
             </ul>
@@ -93,7 +93,31 @@
     <footer
       class="d-flex flex-wrap justify-content-center align-items-center py-3 mt-4 border-top"
     >
-     <!-- <center><img src="~/assets/secondarylogo.svg" style="width:7rem; height:7rem;"></center> -->
+     <center>
+
+     <div class="pb-3 text-white text-center credittitle">
+          Website brought to you by
+        </div>
+
+        <a href="https://css.harrowschool.io/" style="text-decoration:none">
+          <div class="row mb-3">
+            <div class="col-md-12">
+
+              <div class="row">
+                <div class="col-6 text-end">
+                  <img src="~/assets/img/csslogowhite.png" class="my-auto" height="95rem" />
+                </div>
+                <div class="col-6 text-start credits text-white">
+                  The <br />Computer<br />
+                  Science<br />
+                  Society
+                </div>
+              </div>
+            </div>
+          </div>
+        </a>
+        </center> 
+
     </footer>
   </div>
 </template>

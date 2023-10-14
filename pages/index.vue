@@ -88,6 +88,62 @@
 
   <TimeLineComponent/>
 
+  <div class="container px-4 py-5">
+    <h1 class="pb-2 display-5 fw-bold overflow-hidden text-white">Why participate?</h1>
+
+    <div class="row row-cols-1 row-cols-md-2 align-items-md-center g-5 py-5">
+      <div class="col d-flex flex-column align-items-start gap-2">
+        <h3 class="fs-2 fw-bold overflow-hidden text-white">Grand Prize</h3>
+        <p class="text-white fs-3">The winning team for each age category receive free places on a prestigious sustainability course as well as a $100 voucher on a platform of their choice.</p>
+      </div>
+
+      <div class="col">
+        <div class="row row-cols-1 row-cols-sm-2 g-4">
+          <div class="col d-flex flex-column gap-2">
+        
+            <h3 class="fs-2 fw-bold overflow-hidden text-white">Global Influence</h3>
+            <p class="text-white">By entering, you compete internationally. Test your ideas against students on the other side of the world.</p>
+          </div>
+
+          <div class="col d-flex flex-column gap-2">
+            
+            <h3 class="fs-2 fw-bold overflow-hidden text-white">Make a Difference</h3>
+            <p class="text-white">This event is more than just a competition. If your idea is outstanding, we'll help you implement it in the real world.</p>
+          </div>
+
+          <div class="col d-flex flex-column gap-2">
+           
+            <h3 class="fs-2 fw-bold overflow-hidden text-white">Progress Skills</h3>
+            <p class="text-white">Develop skills like teamwork and problem-solving. Strengthening these will help you thrive in other fields.</p>
+          </div>
+
+          <div class="col d-flex flex-column gap-2">
+           
+            <h3 class="fs-2 fw-bold overflow-hidden text-white">Build your profile</h3>
+            <p class="text-white">This international competition is great to present on your CV and personal statement. It shows you are a proactive person who cares about the environment.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+  <div class="imagecontainer">
+  <img src="~/assets/img/andrew-coelho-aL7SA1ASVdQ-unsplash.jpg" class="backimage" style="width:100%;">
+  <div class="centeredtext">
+    <div class="py-5 my-5">
+    <h1 class="display-5 fw-bold overflow-hidden">Get Started!</h1>
+    <div class="col-lg-12 mx-auto">
+      <p class="lead mb-4 fs-2">Watch some tutorials to gain skills for the competition!</p>
+      <NuxtLink to="/participate" class="button d-inline-flex align-items-center btn btn-primary btn-lg px-4 rounded-pill" type="button">
+        Participate
+      </NuxtLink>
+    </div>
+  </div>
+  </div>
+</div>
+
+
 </div>
 </template>
 
