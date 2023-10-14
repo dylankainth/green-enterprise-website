@@ -161,7 +161,6 @@ ul.timeline-list li:before {
 .timeline_content span {
 	font-size: 18px;
 	font-weight: 500;
-	font-family: poppins;
 	color: #4B9354;
 }
 
