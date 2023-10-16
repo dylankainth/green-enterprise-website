@@ -95,7 +95,7 @@
      <center>
 
      <div class="pb-3 text-white text-center credittitle">
-          Website brought to you by
+          Website brought to you by Dylan Kainth and Vlad Plyushchenko
         </div>
 
         <a href="https://css.harrowschool.io/" style="text-decoration:none">
@@ -149,7 +149,7 @@
 }
 
 .participate {
-  background-color: #007bff;
+  background-color: #4B9354;
   color: #001a46 !important;
 }
 
