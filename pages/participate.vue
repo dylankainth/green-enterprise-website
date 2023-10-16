@@ -1,11 +1,11 @@
 <template>
-<div> 
+<div>
 
 <div class="imagecontainer d-none d-lg-block">
   <img src="~/assets/img/scott-webb-e6VmcXF8llA-unsplash.jpg" class="backimage" style="width:100%; object-fit: cover;">
   <div class="centeredtext">
     <div class="py-5 my-5">
-    <h1 class="display-5 fw-bold overflow-hidden">Participate</h1>
+    <h1 class="display-5 fw-bold overflow-hidden">Information</h1>
     <div class="col-lg-12 mx-auto">
       <p class="lead mb-4 fs-2">Watch our tutorials to gain skills to aid your participation in the competition</p>
     </div>

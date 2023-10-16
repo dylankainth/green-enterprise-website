@@ -7,7 +7,7 @@
             href="/"
             class="d-flex align-items-center mb-xl-0 me-xl-auto text-decoration-none"
           >
-            <img src="~/assets/img/potted-plant.svg" class="logo" alt="gwandllyne the plant" /> 
+            <img src="~/assets/img/potted-plant.svg" class="logo" alt="gwandllyne the plant" />
             <span class="brandnamewhite">Green Enterprise</span>
           </a>
 
@@ -17,16 +17,16 @@
                 <NuxtLink to="/" class="nav-link">Home</NuxtLink>
               </li>
               <li class="nav-item">
-                <NuxtLink to="/participate" class="nav-link">Participate</NuxtLink>
+                <NuxtLink to="/participate" class="nav-link">Information</NuxtLink>
               </li>
-              
+
             </ul>
           </div>
         </nav>
 
         <nav class="navbar navbar-dark d-flex flex-wrap justify-content-center d-block d-xl-none">
             <!-- <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#offcanvasNavbar" aria-controls="offcanvasNavbar" aria-expanded="false" aria-label="Toggle navigation">
-             
+
             </button> -->
 
             <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar"  aria-controls="offcanvasNavbar"> <span class="navbar-toggler-icon"></span> </button>
@@ -51,7 +51,7 @@
           ></button>
         </div>
         <div class="offcanvas-header">
-          
+
 
           <h2 class="offcanvas-title" id="offcanvasNavbarLabel">
             <a
@@ -61,7 +61,7 @@
             <span class="brandnamegreen">Green Enterprise</span>
           </a>
           </h2>
-          
+
         </div>
         <div class="offcanvas-body">
           <ul class="navbar-nav justify-content-end flex-grow-1 pe-3">
@@ -69,7 +69,7 @@
                 <NuxtLink to="/" class="nav-link">Home</NuxtLink>
               </li>
               <li  class="nav-item-offcanvas" data-bs-dismiss="offcanvas">
-                <NuxtLink to="/participate" class="nav-link">Participate</NuxtLink>
+                <NuxtLink to="/participate" class="nav-link">Information</NuxtLink>
               </li>
 
           </ul>
@@ -107,7 +107,7 @@
             </div>
           </div>
         </a>
-        </center> 
+        </center>
 
     </footer>
   </div>
