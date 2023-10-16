@@ -143,9 +143,13 @@
     <h1 class="display-5 fw-bold overflow-hidden">Get Started!</h1>
     <div class="col-lg-12 mx-auto">
       <p class="lead mb-4 fs-2">Watch some tutorials to gain skills for the competition!</p>
-      <NuxtLink to="/participate" class="button d-inline-flex align-items-center btn btn-primary btn-lg px-4 rounded-pill" type="button">
+      <NuxtLink to="/participate" class="button d-inline-flex align-items-center btn btn-warning btn-lg px-4 rounded-pill" type="button">
         Information
       </NuxtLink>
+
+      <a href="https://forms.office.com/e/VfkB35WK4k" class="button d-inline-flex align-items-center btn btn-primary btn-lg px-4 rounded-pill" type="button">
+        Participate
+      </a>
     </div>
   </div>
   </div>

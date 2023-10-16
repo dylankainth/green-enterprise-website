@@ -20,6 +20,10 @@
                 <NuxtLink to="/participate" class="nav-link">Information</NuxtLink>
               </li>
 
+              <li class="nav-item participate">
+                <a href="https://forms.office.com/e/VfkB35WK4k" target="_blank" class="nav-link">Participate</a>
+              </li>
+
             </ul>
           </div>
         </nav>
@@ -70,6 +74,10 @@
               </li>
               <li  class="nav-item-offcanvas" data-bs-dismiss="offcanvas">
                 <NuxtLink to="/participate" class="nav-link">Information</NuxtLink>
+              </li>
+
+              <li class="nav-item-offcanvas">
+                <a href="https://forms.office.com/e/VfkB35WK4k" target="_blank" class="nav-link">Participate</a>
               </li>
 
           </ul>
@@ -137,6 +145,11 @@
 }
 .nav-item .nuxt-link-exact-active {
   background-color: #eff0f2 !important;
+  color: #001a46 !important;
+}
+
+.participate {
+  background-color: #007bff;
   color: #001a46 !important;
 }
 
