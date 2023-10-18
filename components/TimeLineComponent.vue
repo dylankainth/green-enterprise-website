@@ -12,7 +12,7 @@
 <h3>Submission Deadline</h3>
 <p>Submit your video and pitch deck by March 18th. We will review and give feedback to four entries per school.</p>
 
-<h2>April 2023</h2>
+<h2>April 2024</h2>
 <h3>Awards Showcase</h3>
 <p>Once the review process is over, there will be a showcase where the winners of each category will be announced.</p>
     </section>
@@ -39,7 +39,7 @@
                      <!-- Single Experience -->
                      <li>
                         <div class="timeline_content">
-                        
+
                            <h4>Milestones</h4>
                            <p>Periodically, you will receive content on entrepreneurship to participants with useful content to keep you on track.</p>
                         </div>
