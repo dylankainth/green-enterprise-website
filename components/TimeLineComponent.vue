@@ -55,7 +55,7 @@
                      <!-- Single Experience -->
                      <li>
                         <div class="timeline_content">
-                        <span>April 2023</span>
+                        <span>April 2024</span>
                            <h4>Awards Showcase</h4>
                            <p>Once the review process is over, there will be a showcase where the winners of each category will be announced.</p>
                         </div>
