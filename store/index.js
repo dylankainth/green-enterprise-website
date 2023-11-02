@@ -1,33 +1,13 @@
 export const state = () => ({
     tutorials: [{
-        title : "title",
-        strapline: "person A introduces the topic of xyz",
-        videourl: '<iframe width="1010" height="568" src="https://www.youtube.com/embed/Smbpl34MOsY" title="Ultimate London Fantasy Transit Map!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'
+        title : "Forms of a Business and Social Enterprise",
+        strapline: "David Barrow introduces the forms of a business and social enterprise",
+        videourl: '<iframe src="https://player.cloudinary.com/embed/?public_id=vbswk8salqlseuxrhr9u&cloud_name=dwjt0ewjb" width="640" height="360" style="height: auto; width: 100%; aspect-ratio: 640 / 360;" allow="autoplay; fullscreen; encrypted-media; picture-in-picture" allowfullscreen frameborder="0"></iframe>'
     },
     {
-        title : "title",
-        strapline: "person B gives a deep dive into abc",
-        videourl: ""
+        title : "Invention and Innovation",
+        strapline: "George Soliman on Invention and Innovation",
+        videourl: '<iframe src="https://player.cloudinary.com/embed/?public_id=yodqozz8ca6o6raziwif&cloud_name=dwjt0ewjb" width="640" height="360" style="height: auto; width: 100%; aspect-ratio: 640 / 360;" allow="autoplay; fullscreen; encrypted-media; picture-in-picture" allowfullscreen frameborder="0"></iframe>'
     },
-    {
-        title : "title",
-        strapline: "person B gives a deep dive into abc",
-        videourl: ""
-    },
-    {
-        title : "title",
-        strapline: "person B gives a deep dive into abc",
-        videourl: ""
-    },
-    {
-        title : "title",
-        strapline: "person B gives a deep dive into abc",
-        videourl: ""
-    },
-    {
-        title : "title",
-        strapline: "person B gives a deep dive into abc",
-        videourl: ""
-    }
 ]
 })
