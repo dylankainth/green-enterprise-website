@@ -1,6 +1,6 @@
 export default {
   generate: {
-    routes: ['/tutorial/1']
+    routes: ['/tutorials/1']
   },
 
   // Target: https://go.nuxtjs.dev/config-target
