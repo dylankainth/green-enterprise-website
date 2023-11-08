@@ -1,7 +1,8 @@
 export const state = () => ({
     tutorials: [{
         title : "Challenge Introduction",
-        strapline: "Vlad introduces this year's challenge",
+        strapline: "Vlad Plyushchenko introduces this year's challenge",
+        shortstrapline: "Vlad introduces this year's challenge",
         videourl: `<div class="row d-flex flex-column flex-md-row">
         <div class="col-md-6">
             <p>High performing teams are usually diverse teams with different skills and backgrounds. It is easy to forget that others don’t think like us so this is a great opportunity to find out more about yourself and about your teammates. High performing teams also know each other’s strengths and weaknesses well which helps in delegate tasks.</p>
@@ -25,8 +26,9 @@ export const state = () => ({
     },
 
     {
-        title : "Managing Change and Profit with Purpose",
-        strapline: "Mark Haviland and Lydia Moussa discuss teamwork, profit and change",
+        title : "Purpose",
+        shortstrapline: "Dr Lydia Moussa follows up on High Performing Teams, stakeholders and vision, while Mark Haviland discusses Profit with Purpose, SDGs and Ikigai",
+        strapline: `<a href="https://www.linkedin.com/in/lydia-moussa/">Dr Lydia Moussa</a>, Founder of the <a href="https://thechangehub.com.au/about">Change Hub</a> following up on High Performing Teams, stakeholders and vision. <br> <a href="https://www.linkedin.com/in/mark-cc/?originalSubdomain=uk">Mark Haviland</a>, Founder of <a href="https://www.consciouscareers.co.uk/">Conscious Careers</a> on Profit with Purpose, SDGs, Ikigai`,
         videourl: `<div class="row d-flex flex-column flex-md-row">
         <div class="col-md-6">
         <iframe
@@ -51,7 +53,32 @@ export const state = () => ({
         ></iframe>
         </div>
       </div>
-        `
+      <br>
+      <p class="fs-4">It is really easy to dive in and start thinking about solutions but it is also important to step back and think about why you are doing this.</p>
+      <p>Often entrepreneurs are trying to solve a problem, other times they might see themselves as solving a problem that consumers didn’t even know they had!</p>
+      <p>For social entrepreneurs like yourselves, you might want to think about the 17 SDGs (Sustainable Development Goals) as a place to start and frame your thinking. Your group may be more interested in focusing on one or more of them and this might be something you want to highlight in your pitch deck, although not necessarily. </p> 
+      <img src="/undevelopmentgoals.png" class="img-fluid px-5" alt="Responsive image">
+      <p>It is definitely worth thinking about your vision, goals, objectives and measures although you will likely need to come back to this later and similarly with a stakeholder map.</p>
+
+      </p>
+      
+      <div class="row d-flex flex-column flex-md-row">
+        <div class="col-md-6">
+            <img src="/ikigai.png" class="img-fluid px-5" alt="Responsive image">
+        </div>
+        <div class="col-md-6">
+            <img src="/change.png" class="img-fluid px-5" alt="Responsive image">
+        </div>
+      </div>
+
+      <p>Extension Material:</p>
+      <img src="/stakeholdermap.png" class="img-fluid px-5" alt="Responsive image">
+
+      <br> 
+      <img src="/stockholmresearch.png" class="img-fluid px-5" alt="Responsive image">
+      <a href="https://www.stockholmresilience.org/research/planetary-boundaries.html">See More</a>
+
+      `
     },
 
     // {

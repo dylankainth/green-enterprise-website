@@ -2,8 +2,8 @@
 <div class="container">
   <div class="p-5 text-start bg-body-tertiary rounded-3">
     <h1 class="text-body-emphasis overflow-hidden">{{tutorial.title}}</h1>
-    <p class="lead">
-        {{tutorial.strapline}}
+    <p class="lead" v-html="tutorial.strapline">
+        
     </p>
   </div>
 

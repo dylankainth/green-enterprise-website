@@ -29,8 +29,7 @@
   <div class="p-5 text-center bg-body-tertiary rounded-3">
     <h1 class="display-1 fw-bold overflow-hidden">{{index+1}}</h1>
     <h1 class="text-body-emphasis overflow-hidden">{{ tutorial.title }}</h1>
-    <p class="col-lg-8 mx-auto fs-5 text-muted">
-      {{ tutorial.strapline }}
+    <p class="col-lg-8 mx-auto fs-5 text-muted" v-html="tutorial.shortstrapline">
     </p>
     <div class="d-inline-flex gap-2">
       <NuxtLink :to="'/tutorials/' + (index+1)" class="button d-inline-flex align-items-center btn btn-primary btn-lg px-4 rounded-pill" type="button">
