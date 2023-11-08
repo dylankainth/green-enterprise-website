@@ -23,6 +23,37 @@ export const state = () => ({
       </div>
         `
     },
+
+    {
+        title : "Managing Change and Profit with Purpose",
+        strapline: "Mark Haviland and Lydia Moussa discuss teamwork, profit and change",
+        videourl: `<div class="row d-flex flex-column flex-md-row">
+        <div class="col-md-6">
+        <iframe
+  src="https://player.cloudinary.com/embed/?public_id=ehiporf4cmc6kbsl95iz&cloud_name=dwjt0ewjb"
+  width="640"
+  height="360" 
+  style="height: auto; width: 100%; aspect-ratio: 640 / 360;"
+  allow="autoplay; fullscreen; encrypted-media; picture-in-picture"
+  allowfullscreen
+  frameborder="0"
+></iframe>
+        </div>
+        <div class="col-md-6">
+            <iframe
+            src="https://player.cloudinary.com/embed/?public_id=gdaphlnnmqf5wkntu7ca&cloud_name=dwjt0ewjb"
+            width="640"
+            height="360" 
+            style="height: auto; width: 100%; aspect-ratio: 640 / 360;"
+            allow="autoplay; fullscreen; encrypted-media; picture-in-picture"
+            allowfullscreen
+            frameborder="0"
+        ></iframe>
+        </div>
+      </div>
+        `
+    },
+
     // {
     //     title : "Forms of a Business and Social Enterprise",
     //     strapline: "David Barrow introduces the forms of a business and social enterprise",
