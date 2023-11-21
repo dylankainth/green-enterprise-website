@@ -95,7 +95,7 @@
      <center>
 
      <div class="pb-3 text-white text-center credittitle">
-          Website brought to you by <a style="color:white;" href="https://dylankainth.com/">Dylan Kainth</a> and Vlad Plyushchenko
+          Website brought to you by <a style="color:white;" href="https://dylankainth.com/">Dylan Kainth</a> and <a style="color:white;" href="https://vladapl21.github.io">Vlad Plyushchenko</a>
         </div>
 
         <a href="https://css.harrowschool.io/" style="text-decoration:none">
@@ -147,6 +147,7 @@
   background-color: #eff0f2 !important;
   color: #001a46 !important;
 }
+
 
 .participate {
   background-color: #4B9354;
