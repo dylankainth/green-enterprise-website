@@ -95,7 +95,7 @@
      <center>
 
      <div class="pb-3 text-white text-center credittitle">
-          Website brought to you by <a style="color:white;" href="https://dylankainth.com/">Dylan Kainth</a> and Vlad Plyushchenko
+          Website brought to you by <name-link><a style="color:white;" href="https://dylankainth.com/">Dylan Kainth</a></name-link> and <name-link><a style="color:white;" href="https://vladapl21.github.io">Vlad Plyushchenko</a></name-link>
         </div>
 
         <a href="https://css.harrowschool.io/" style="text-decoration:none">
@@ -146,6 +146,13 @@
 .nav-item .nuxt-link-exact-active {
   background-color: #eff0f2 !important;
   color: #001a46 !important;
+}
+
+name-link {
+}
+
+name-link:hover {
+  font-size: 1.15rem
 }
 
 .participate {
