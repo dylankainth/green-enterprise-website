@@ -95,7 +95,7 @@
      <center>
 
      <div class="pb-3 text-white text-center credittitle">
-          Website brought to you by Dylan Kainth and Vlad Plyushchenko
+          Website brought to you by <a style="color:white;" href="https://dylankainth.com/">Dylan Kainth</a> and Vlad Plyushchenko
         </div>
 
         <a href="https://css.harrowschool.io/" style="text-decoration:none">

@@ -33,7 +33,7 @@
     </p>
     <div class="d-inline-flex gap-2">
       <NuxtLink :to="'/tutorials/' + (index+1)" class="button d-inline-flex align-items-center btn btn-primary btn-lg px-4 rounded-pill" type="button">
-        View Content
+        View Theme
       </NuxtLink>
     </div>
   </div>

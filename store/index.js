@@ -91,5 +91,85 @@ export const state = () => ({
     //     strapline: "George Soliman on Invention and Innovation",
     //     videourl: '<iframe src="https://player.cloudinary.com/embed/?public_id=yodqozz8ca6o6raziwif&cloud_name=dwjt0ewjb" width="640" height="360" style="height: auto; width: 100%; aspect-ratio: 640 / 360;" allow="autoplay; fullscreen; encrypted-media; picture-in-picture" allowfullscreen frameborder="0"></iframe>'
     // },
+
+    {
+        title : "Invention, Innovation, Ideation",
+        shortstrapline: "David Barrow discusses the forms of a Business and Social Enterprise, while George Soliman talks about Invention and Innovation. Afterwards, Mr Morgan discusses Ideation and USP",
+        strapline: `David Barrow discusses the forms of a Business and Social Enterprise, while George Soliman talks about Invention and Innovation. Afterwards, Mr Morgan discusses Ideation and USP`,
+        videourl: `<div class="row d-flex flex-column flex-md-row">
+        <div class="col-md-4">
+        <iframe
+  src="https://player.cloudinary.com/embed/?public_id=tbln1w0w9ntdgu23ydra&cloud_name=dwjt0ewjb"
+  width="640"
+  height="360" 
+  style="height: auto; width: 100%; aspect-ratio: 640 / 360;"
+  allow="autoplay; fullscreen; encrypted-media; picture-in-picture"
+  allowfullscreen
+  frameborder="0"
+></iframe>
+        </div>
+        <div class="col-md-4">
+        <iframe
+  src="https://player.cloudinary.com/embed/?public_id=rvtsvfcjosljvod0gqhh&cloud_name=dwjt0ewjb"
+  width="640"
+  height="360" 
+  style="height: auto; width: 100%; aspect-ratio: 640 / 360;"
+  allow="autoplay; fullscreen; encrypted-media; picture-in-picture"
+  allowfullscreen
+  frameborder="0"
+></iframe>
+        </div>
+        <div class="col-md-4">
+        <iframe
+        src="https://player.cloudinary.com/embed/?public_id=yodqozz8ca6o6raziwif&cloud_name=dwjt0ewjb"
+        width="640"
+        height="360" 
+        style="height: auto; width: 100%; aspect-ratio: 640 / 360;"
+        allow="autoplay; fullscreen; encrypted-media; picture-in-picture"
+        allowfullscreen
+        frameborder="0"
+      ></iframe>
+        </div>
+      </div>
+      <br>
+      <p class="fs-5">You may wish to watch the videos above from people that have worked for Amazon, Asahi and Tesco as well as all being entrepreneurs and business owners</p>
+      <p> 
+      Although I am sure you have already started thinking of ideas for your good or service and you may have narrowed it down to your main idea already. If you haven’t then perhaps use the framework of the <b>SDGs</b> or through the lens of the theme: <b>Reduce, Reuse, Recycle</b> (not all of these need to be addressed).It would be really nice to see some of your thinking and how you came up with your idea in your pitch deck.
+      </p> 
+      <p> 
+      Try to balance viability and creativity and as you develop your idea you should:
+      </p> 
+      <ul style="list-style-type: none;">
+        <li>- Consider the judgement criteria</li>
+        <li>- Perform some <b>market research</b>
+            <ul>
+                <li>- Quantitative – numbers based</li>
+                <li>- Qualitative – opinion based</li>
+                <li>- Primary – performed by you – e.g. survey friends or family</li>
+                <li>- Secondary – performed by others e.g. information online</li>
+            </ul>
+        </li>
+        <li>- Consider the customer first and foremost<li>
+        <li>- Then consider the competition</li>
+        <li>- You should also think about your <b>USP (Unique Selling Point)</b> what will make you stand out in the market</li>
+        <li>- Consider doing a <b>market map</b> (see an example for chocolate below) and/or a <b>SWOT analysis</b> (you can use the template below if you wish)</li>
+      </ul>
+
+      <p>You can include your research in your pitch deck. Don’t be afraid to go back to the drawing board if your market research doesn’t go the way you had hoped. You may need to adapt, iterate or completely change your idea.</p>
+
+      <img src="/judgementcriteria.png" class="img-fluid px-5" alt="Responsive image">
+    
+      
+      <div class="row d-flex flex-column flex-md-row pt-5">
+        <div class="col-md-6">
+            <img src="/chocolate.png" class="img-fluid px-5" alt="Responsive image">
+        </div>
+        <div class="col-md-6">
+            <img src="/swot.png" class="img-fluid px-5" alt="Responsive image">
+        </div>
+      </div>
+
+      `
+    }
 ]
 })
