@@ -80,7 +80,7 @@ export const state = () => ({
         <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://jumpshare.com/embed/S5ot23qWSWNs1trx1AMg" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
         </div>
         <div class="col-md-4">
-        <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://jumpshare.com/embed/SyceWkJtKw46yeniMTfY" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+        <div style="position: relative; padding-bottom: 56.25%; height: 0"><iframe src="https://jumpshare.com/embed/SyceWkJtKw46yeniMTfY" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
         </div>
       </div>
       <br>
