@@ -11,15 +11,7 @@ export const state = () => ({
             <p>Use this as an opportunity to start your pitch deck with a short profile and perhaps a picture of each team member. Don’t worry too much about the formatting right now, you can tidy it up later but your pitch deck at the end can take any form. A ppt/word doc/Canva/Prezi or anything else creative. It will support your one minute video with further detail. Although not mandatory, using the content updates will be an easy and natural way to build up your pitch deck.</p>
         </div>
         <div class="col-md-6">
-            <iframe
-            src="https://player.cloudinary.com/embed/?public_id=j0evjdbqvt64x6rwjbsm&cloud_name=dwjt0ewjb"
-            width="360"
-            height="640" 
-            style="height: auto; width: 100%; aspect-ratio: 360 / 360;"
-            allow="autoplay; fullscreen; encrypted-media; picture-in-picture"
-            allowfullscreen
-            frameborder="0"
-        ></iframe>
+        <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://jumpshare.com/embed/wJdJpYIWnq2OiJqy4Oyc" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
         </div>
       </div>
         `
@@ -31,26 +23,10 @@ export const state = () => ({
         strapline: `<a href="https://www.linkedin.com/in/lydia-moussa/">Dr Lydia Moussa</a>, Founder of the <a href="https://thechangehub.com.au/about">Change Hub</a> following up on High Performing Teams, stakeholders and vision. <br> <a href="https://www.linkedin.com/in/mark-cc/?originalSubdomain=uk">Mark Haviland</a>, Founder of <a href="https://www.consciouscareers.co.uk/">Conscious Careers</a> on Profit with Purpose, SDGs, Ikigai`,
         videourl: `<div class="row d-flex flex-column flex-md-row">
         <div class="col-md-6">
-        <iframe
-  src="https://player.cloudinary.com/embed/?public_id=ehiporf4cmc6kbsl95iz&cloud_name=dwjt0ewjb"
-  width="640"
-  height="360" 
-  style="height: auto; width: 100%; aspect-ratio: 640 / 360;"
-  allow="autoplay; fullscreen; encrypted-media; picture-in-picture"
-  allowfullscreen
-  frameborder="0"
-></iframe>
+        <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://jumpshare.com/embed/qDMl8pHpPb4o1QmS71ft" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
         </div>
         <div class="col-md-6">
-            <iframe
-            src="https://player.cloudinary.com/embed/?public_id=gdaphlnnmqf5wkntu7ca&cloud_name=dwjt0ewjb"
-            width="640"
-            height="360" 
-            style="height: auto; width: 100%; aspect-ratio: 640 / 360;"
-            allow="autoplay; fullscreen; encrypted-media; picture-in-picture"
-            allowfullscreen
-            frameborder="0"
-        ></iframe>
+        <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://jumpshare.com/embed/l0XZkBplQHKUToN8dL3l" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
         </div>
       </div>
       <br>
@@ -98,37 +74,13 @@ export const state = () => ({
         strapline: `David Barrow discusses the forms of a Business and Social Enterprise, while George Soliman talks about Invention and Innovation. Afterwards, Mr Morgan discusses Ideation and USP`,
         videourl: `<div class="row d-flex flex-column flex-md-row">
         <div class="col-md-4">
-        <iframe
-  src="https://player.cloudinary.com/embed/?public_id=tbln1w0w9ntdgu23ydra&cloud_name=dwjt0ewjb"
-  width="640"
-  height="360" 
-  style="height: auto; width: 100%; aspect-ratio: 640 / 360;"
-  allow="autoplay; fullscreen; encrypted-media; picture-in-picture"
-  allowfullscreen
-  frameborder="0"
-></iframe>
+        <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://jumpshare.com/embed/A9bDvfmXSAfw0Is6V4AB" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
         </div>
         <div class="col-md-4">
-        <iframe
-  src="https://player.cloudinary.com/embed/?public_id=rvtsvfcjosljvod0gqhh&cloud_name=dwjt0ewjb"
-  width="640"
-  height="360" 
-  style="height: auto; width: 100%; aspect-ratio: 640 / 360;"
-  allow="autoplay; fullscreen; encrypted-media; picture-in-picture"
-  allowfullscreen
-  frameborder="0"
-></iframe>
+        <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://jumpshare.com/embed/S5ot23qWSWNs1trx1AMg" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
         </div>
         <div class="col-md-4">
-        <iframe
-        src="https://player.cloudinary.com/embed/?public_id=yodqozz8ca6o6raziwif&cloud_name=dwjt0ewjb"
-        width="640"
-        height="360" 
-        style="height: auto; width: 100%; aspect-ratio: 640 / 360;"
-        allow="autoplay; fullscreen; encrypted-media; picture-in-picture"
-        allowfullscreen
-        frameborder="0"
-      ></iframe>
+        <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://jumpshare.com/embed/SyceWkJtKw46yeniMTfY" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
         </div>
       </div>
       <br>
