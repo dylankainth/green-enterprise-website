@@ -122,6 +122,42 @@ export const state = () => ({
       </div>
 
       `
-    }
+    },
+
+    {
+      title : "The Circular Economy and Design",
+      shortstrapline: "Lindsay McKercher discusses suppliers and sustainable design",
+      strapline: `Lindsay McKercher discusses suppliers and sustainable design`,
+      videourl: `<div class="row d-flex flex-column flex-md-row">
+      <div class="col-md-4">
+      <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/N-cWaRRLh3k?t=128" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+      </div>
+      <div class="col-md-4">
+      <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://jumpshare.com/embed/LLoqJ5LgNKL7oVy3tnwO" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+      </div>
+      <div class="col-md-4">
+      <div style="position: relative; padding-bottom: 56.25%; height: 0"><iframe src="https://www.youtube.com/embed/pOqocj2h6EM" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+      </div>
+    </div>
+    <br>
+    <p class="fs-5">By now, you should have finalised your idea with a strong USP and perhaps done some market, although there is still time to tweak it later.</p>
+    <p>You should now start thinking about the details of the design. The Circular Economy is considered one important part of the future and relies on products and services being designed in such a way that considers the full product lifecycle from getting the materials and resources to the end of life as you can see in the graphic below. Nespresso coffee pods could be a good example. The pods can be returned with the coffee used as biogas or fertiliser and the aluminium can be used for new pods. </p>
+  
+    <p>For your pitch deck:</p>
+    <ul style="list-style-type: none;">
+      <li>- If you are in the top age category then you may wish to contact different suppliers to find out about their sustainability credentials and garner quotes.</li>
+      <li>- Clearly show what would happen to your product/service at the end of life.</li>
+      <li>-	Begin to consider the impact of incorporating sustainability in terms of cost and see if you can use creative ways of reducing cost in the long term.</li>
+    </ul>
+
+    <center>
+    <img src="/waystorecycle.jpg" class="img-fluid px-5" alt="Responsive image">
+  
+    
+    <img src="/typesofeconomy.jpg" class="img-fluid px-5" alt="Responsive image">
+      </center>
+
+    `
+  }
 ]
 })
