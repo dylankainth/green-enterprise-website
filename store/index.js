@@ -205,6 +205,34 @@ export const state = () => ({
       </div>
 
   `
+},
+
+{
+  title : "Branding and Marketing",
+  shortstrapline: "Investigating costs and Pricing Strategies",
+  strapline: `Investigating costs and Pricing Strategies`,
+  videourl: `
+  <p>When thinking about branding and marketing it all comes back to the <b>target market</b>. It is also worth thinking about the <b>marketing mix</b> (Product, Price, Promotion and Place).</p>
+  <p>You may wish to discuss with your group which you think is the most important.</p>
+  <p>You will have already spent a lot of time thinking about your product and its <b>USP</b> and likewise the pricing strategy.</p>
+  <p><b>Place</b> concerns where you will sell it. Will this be directly to the customer <b>B2C (Business to consumer)</b> or <b>B2B (Business to Business)</b> or via a retailer (ie a farmer will see eggs through a supermarket or a business may sell phone cases on Amazon).</p>
+  <p><b>Place</b> could be a physical store or online. If it is a physical store where would that be? A coffee shop in a train station will attract a lot of customers. If it is through your own website how will you get traffic to go there? Or if it is on Amazon/Ali Baba or similar how would you make sure you are towards the top of the search so customers find you.</p>
+  <p><b>Promotion</b> links in here. Would you use <b>traditional</b> methods of <b>advertising</b> like TV/billboard/magazine/newspaper adds or would you consider social media marketing which might be cheaper and more targeted.</p>
+
+<p><b>Pitch deck</b>: Perhaps you could design a logo and make an advert with a tagline or design a social media post for your pitch deck and identify where you would post it and why.</p>
+
+<iframe width="683" height="384" src="https://www.youtube.com/embed/_cj6TJfLYVI" title="What Is Branding? 3 Minute Crash Course." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<p>Branding isn’t just a logo which is a good symbol of the brand but brand is bigger than that – it is what people think of when they think of your business.</p>
+
+<img src="/pppp.png" class="img-fluid px-5" alt="Responsive image">
+
+<p>Research Search Engine Optimisation – this could lead to an excellent career in the future and is an important part of promoting a business.</p>
+
+<h2>Extension Task</h2>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://jumpshare.com/embed/7LRc0HvRlbpIzxks8hba" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<p>Research Search Engine Optimisation – this could lead to an excellent career in the future and is an important part of promoting a business.</p>
+`
 }
+
 ]
 })
