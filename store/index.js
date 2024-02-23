@@ -209,8 +209,8 @@ export const state = () => ({
 
 {
   title : "Branding and Marketing",
-  shortstrapline: "Investigating costs and Pricing Strategies",
-  strapline: `Investigating costs and Pricing Strategies`,
+  shortstrapline: "Investigating Branding and Marketing",
+  strapline: `Investigating Branding and Marketing`,
   videourl: `
   <p>When thinking about branding and marketing it all comes back to the <b>target market</b>. It is also worth thinking about the <b>marketing mix</b> (Product, Price, Promotion and Place).</p>
   <p>You may wish to discuss with your group which you think is the most important.</p>
