@@ -259,29 +259,24 @@ export const state = () => ({
   <p>Please use this <a href="https://www.dropbox.com/scl/fo/o9h3lijec97olof9rjcuj/h?rlkey=rhl0bi8vfhd40lmp99rrui1da&dl=0to">link</a> to reach the Dropbox for uploading.</p>
   <p>Create a folder with a Title that includes all of the following:</p>
   <ol>
-  <li>- The letter that corresponds to your age category
+  <li>- The letter that corresponds to your year category (<a href="https://en.wikipedia.org/wiki/Education_in_England#Types_of_school">age to 'UK Year' converter</a>)
     <ul>
-      <li> a) Years 5-8
-      <li> b) Years 9-11
-      <li> c) Years 12-13
+      <li> a) Years 5-6 </li>
+      <li> b) Years 7-8 </li>
+      <li> c) Years 9-11 </li>
+      <li> d) Years 12-13 </li>
     </ul>
   </li>
   <li>- Your school</li>
   <li>- Your team name.</li> 
   </ol>
-  Inside the folder please include the following three items:
+  Inside the folder please upload the following three items:
   <ol>
   <li>- Your one minute video</li>
   <li>- Your pitch deck (PowerPoint, Word document, Canva, Prezi or any other format)</li>
-  <li>- IMPORTANT: A word document with: 
-     <ul>
-     <li>- your team name</li>
-     <li>- your school</li>
-     <li>- your age category</li>
-     <li>- the email address of your team and your teacher (so we can send you feedback)</li>
-     </ul>
-    </li>
   </ol>
+
+  <p>Please could you then email dmm@harrowschool.org.uk and 19plyushchenkov@harrowschool.org.uk cc’ing your team and your teacher to confirm your upload.</p>
   
   <p>There may be some issues with uploading so do <a href="mailto:dmm@harrowschool.org.uk">get in touch</a> so we can solve them for your team.</p>
   
