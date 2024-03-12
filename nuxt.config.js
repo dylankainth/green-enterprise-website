@@ -1,6 +1,6 @@
 export default {
   generate: {
-    routes: ['/tutorials/1', '/tutorials/2', '/tutorials/3', '/tutorials/4', '/tutorials/5', '/tutorials/6']
+    routes: ['/tutorials/1', '/tutorials/2', '/tutorials/3', '/tutorials/4', '/tutorials/5', '/tutorials/6', '/tutorials/7']
   },
 
   // Target: https://go.nuxtjs.dev/config-target
@@ -17,6 +17,7 @@ export default {
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       { hid: 'description', name: 'description', content: 'An international competition encouraging young people to get involved in sustainability and entrepreneurship' },
       { name: 'format-detection', content: 'telephone=no' },
+      { name:"google-site-verification", content:"3s1BylhYBsehxtp9mCX6pvliiK-CMgy9UHsi582913c"}
     ],
     link: [{ rel: 'icon', type: 'image/svg+xml', href: '/potted-plant.svg' }],
   },

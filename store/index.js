@@ -232,6 +232,65 @@ export const state = () => ({
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://jumpshare.com/embed/7LRc0HvRlbpIzxks8hba" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 <p>Research Search Engine Optimisation – this could lead to an excellent career in the future and is an important part of promoting a business.</p>
 `
+},
+
+{
+  title : "Art of the pitch, video creating/editing and upload",
+  shortstrapline: "Pitching and publishing",
+  strapline: `Pitching and publishing`,
+  videourl: `
+  <h3 class="overflow-hidden">Submission Information</h3>
+
+  <div class="row d-flex flex-column flex-md-row pt-5">
+    <div class="col-md-6">
+    <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://jumpshare.com/embed/X8HAhkjXOmmoLsyw3qeS" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+    <p><i>Exclusively made for us by Theo Paphitis, highly successful entrepreneur and formerly of Dragon’s Den.</i></p>
+    </div>
+    <div class="col-md-6">
+    <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://jumpshare.com/embed/j2pidI2W7IbT1U2cy6cg" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+    <p><i>Wen Yong-Lim who set up his own filming business at a very young age</i></p>
+    </div>
+  </div>
+
+  <br>
+
+  <p>The final deadline for submission will be extended by week one week. The deadline is now midnight in your country on <b>Monday 25th March</b> so you have a two-week window to upload starting from today.</p>
+  <p><b>Uploading</b> – <i>Please read carefully</i>:</p>
+  <p>Please use this <a href="https://www.dropbox.com/scl/fo/o9h3lijec97olof9rjcuj/h?rlkey=rhl0bi8vfhd40lmp99rrui1da&dl=0to">link</a> to reach the Dropbox for uploading.</p>
+  <p>Create a folder with a Title that includes all of the following:</p>
+  <ol>
+  <li>- The letter that corresponds to your age category
+    <ul>
+      <li> a) Years 5-8
+      <li> b) Years 9-11
+      <li> c) Years 12-13
+    </ul>
+  </li>
+  <li>- Your school</li>
+  <li>- Your team name.</li> 
+  </ol>
+  Inside the folder please include the following three items:
+  <ol>
+  <li>- Your one minute video</li>
+  <li>- Your pitch deck (PowerPoint, Word document, Canva, Prezi or any other format)</li>
+  <li>- IMPORTANT: A word document with: 
+     <ul>
+     <li>- your team name</li>
+     <li>- your school</li>
+     <li>- your age category</li>
+     <li>- the email address of your team and your teacher (so we can send you feedback)</li>
+     </ul>
+    </li>
+  </ol>
+  
+  <p>There may be some issues with uploading so do <a href="mailto:dmm@harrowschool.org.uk">get in touch</a> so we can solve them for your team.</p>
+  
+  <p>The final will take place on Teams from <b>8-8.40am GMT in April (date tbc)</b>. Please do let us know if that time poses any issues or if there are any days of the week that are particularly good/bad. The best videos will be show and the winners of the three categories will be announced! </p>
+
+  <center>
+    <img width=400px src="/pitchguidance.png" />
+  </center>
+`
 }
 
 ]
